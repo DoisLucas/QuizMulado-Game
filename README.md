@@ -2,7 +2,7 @@
   <div> <a href="url">
     <img src= "https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
      align="left"></a> </div>
-  <div> <h1 vertical-align: text-top><strong>QuizMulado v1.0 Alpha<strong></h1> </div>
+  <div> <h1 vertical-align: text-top><strong>QuizMulado (0.8 Alpha)<strong></h1> </div>
 </div>
  
 <h3>Sobre:</h3> 
@@ -17,7 +17,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 </div>
 
-<h3><strong>Download:</h3>
+<h3><strong>Download (Alpha):</h3>
 
 <div align="center"> 
 
@@ -29,5 +29,5 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 </div>
 
 <div align="center"> 
-  <h6>Simple Piece. Copyright (c) 2018 by Pedro Lucas</h6>
+  <h6>Simple Piece Copyright (c) 2018 by Pedro Lucas :fire:</h6>
 </div>
