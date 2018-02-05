@@ -11,7 +11,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
  </b>
 <br></br>
 <h3><strong>CAPTURAS DE TELA:</h3>
-
+<br></br>
 <div align="center"> 
  
  <img src="https://lh3.googleusercontent.com/1Xk-ExUidfysGVuQ59BlngQnrBPWmkxAPcUpXg2rJ8j9eJjdiTkFyJpnZF5pWupELNR3DLr9hRc=s350"/> <img src="https://lh3.googleusercontent.com/hHzQpm0yl7p6ApDckzISBLQSBbbH0zuzdlV1gczdNAyvsYXLR6QcwkJEthVv8KzUh7YAuNxvZQ0=s350"/> <img align="top" src= "https://lh3.googleusercontent.com/6EOpSIkX5YXSzyhufRtA-2kr9HaQxZCyyf2TRk7w1Q2NWkN7p0FD_YhSOECUCD8YQlHcho2mhaM=s450"/>
