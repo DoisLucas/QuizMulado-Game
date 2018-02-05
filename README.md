@@ -5,12 +5,12 @@
   <div> <h1 vertical-align: text-top><strong>QuizMulado (Versão 0.7 Alpha)<strong></h1> </div>
 </div>
 
-<h3>Sobre:</h3> 
+<h3>SOBRE:</h3> 
 <b>Teste todo seu conhecimento de maneira divertida nesse jogo composto por mais de 149 perguntas 
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.
  </b>
 <br></br>
-<h3><strong>Screenshots:</h3>
+<h3><strong>CAPTURAS DE TELA:</h3>
 
 <div align="center"> 
  
@@ -18,7 +18,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 </div>
 
-<h3><strong>Download (Alpha):</h3>
+<h3><strong>DOWNLOAD (Alpha):</h3>
 
 <div align="center"> 
 
