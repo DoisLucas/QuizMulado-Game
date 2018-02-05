@@ -1,6 +1,7 @@
-<div align="center"> <h3>QuizMulado Unity(Android/iOS) </h3>
+<div align="center"> 
+<h1 style="color:blue"><strong>QuizMulado Unity(Android/iOS)<strong></h1>
 <a href="url"><img src=
-"https://lh3.googleusercontent.com/jLYtM1ABWTqeU4WtilTiCwnzGyADjmbE8xvezUrMyx5QbDp4LUnhZ0kFilBuoUpRDaDIJUCedRQ=s650" 
+"https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s220" 
 align="bottom"></a>
 </div>
 
