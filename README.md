@@ -10,6 +10,9 @@ align="center"></a>
 <b>Teste todo seu conhecimento de maneira divertida nesse jogo composto por mais de 149 perguntas 
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.</b>
 
+<h3><strong>Screenshots:</h3>
+
+
 <h3><strong>Download:</h3>
 <div align="center"> 
 
@@ -18,11 +21,11 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
-width="30%" height="30%" href></a></div>
+width="20%" height="20%" href></a></div>
 
 <div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
- width="30%" height="30%" href></a></div>
+ width="20%" height="20%" href></a></div>
 
 </div>
 
