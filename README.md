@@ -2,9 +2,9 @@
   <div> <a href="url">
     <img src= "https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
      align="left"></a> </div>
-  <div> <h1 vertical-align: text-top><strong>QuizMulado Versão 1.0 Alpha)<strong></h1> </div>
+  <div> <h1 vertical-align: text-top><strong>QuizMulado (Versão 1.0 Alpha)<strong></h1> </div>
 </div>
- 
+
 <h3>Sobre:</h3> 
 <b>Teste todo seu conhecimento de maneira divertida nesse jogo composto por mais de 149 perguntas 
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.</b>
@@ -29,5 +29,6 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 </div>
 
 <div align="center"> 
+  
   <h6>Simple Piece Copyright (c) 2018 by Pedro Lucas :fire:</h6>
 </div>
