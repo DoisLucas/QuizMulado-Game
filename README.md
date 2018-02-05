@@ -12,7 +12,6 @@
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.
  </b>
 
-<br></br>
 
 ## CAPTURAS DE TELA:
 
