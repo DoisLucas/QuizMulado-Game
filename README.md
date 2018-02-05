@@ -29,5 +29,5 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 </div>
 
 <div align="center"> 
-  <h6>Todos os direitos reservados: <b>SimplePiece<b>©</h6>
+  <h6>Simple Piece. Copyright (c) 2018 by Pedro Lucas</h6>
 </div>
