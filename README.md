@@ -12,10 +12,21 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <h3><strong>Download:</h3>
 <div align="center"> 
-<a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
+
+
+<div>
+
+<div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
-align="center" width="30%" height="30%" href></a>
+align="center" width="30%" height="30%" href></a></div>
+
+<div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
+"https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
+align="center" width="30%" height="30%" href></a></div>
+
 </div>
+
+
 
 <div align="center"> 
   <h6>Todos direitos reservados: <b>SimplePiece<b>©</h6>
