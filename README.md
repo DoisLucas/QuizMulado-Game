@@ -12,7 +12,7 @@
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.
  </b>
 
-
+<BR></BR>
 ## CAPTURAS DE TELA:
 
 <div align="center"> 
