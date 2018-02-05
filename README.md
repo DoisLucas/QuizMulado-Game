@@ -12,15 +12,17 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 <h3><strong>Screenshots:</h3>
 
 <div align="center"> 
-  
+ 
+ <div>
 <img src=
 "https://lh3.googleusercontent.com/ZUpoYxZHmVP89Mx-hs6t42faQQhVbOP5GU6HkDP4TPgR5YKGoVxF-gVLVTv2gTRrllp0tVLb30Y=s350"></a>
-
+</div>
+<div>
 <img src=
 "https://lh3.googleusercontent.com/aYJx4fwedbZS8X1u9f3ZGARtJh-2kGMv3Pt3Yhg6YTFvYR8W3i7YClSRG3WcrQduw47x4TsLnP4=s350"></a> 
-
+</div>
 <img src=
-"https://lh3.googleusercontent.com/KVhvTlxTKEE3LE0J_8lFG9k2GInwZW8L703gfkXI0cA_IsuwPQAW5K8qfQT-21MEVW59mpB38CE=s350"></a> 
+"https://lh3.googleusercontent.com/KVhvTlxTKEE3LE0J_8lFG9k2GInwZW8L703gfkXI0cA_IsuwPQAW5K8qfQT-21MEVW59mpB38CE=s350" vertical-align: text-top></a> 
 
 </div>
 
