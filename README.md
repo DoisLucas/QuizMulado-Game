@@ -23,7 +23,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <div>
 
-<div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
+<div style=”width:50%”><a target="_blank" href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
  width="30%" height="30%" href></a></div>
 </div>
