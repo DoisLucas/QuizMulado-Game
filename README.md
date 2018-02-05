@@ -18,7 +18,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 </div>
 
-<h3><strong>DOWNLOAD (Alpha):</h3>
+<h3><strong>DOWNLOAD:</h3>
 
 <div align="center"> 
 
