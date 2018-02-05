@@ -3,7 +3,7 @@
 </div>
   
 <a href="url"><img src=
-"https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
+"https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s160" 
 align="center"></a>
 
 <h3>Sobre:</h3> 
@@ -21,11 +21,11 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
-width="20%" height="20%" href></a></div>
+width="30%" height="30%" href></a></div>
 
 <div style=”width:50%”><a href="https://play.google.com/store/apps/details?id=com.SimplePiece.QuizMulado"><img src=
 "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
- width="20%" height="20%" href></a></div>
+ width="30%" height="30%" href></a></div>
 
 </div>
 
