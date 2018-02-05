@@ -8,9 +8,9 @@
 
 ## SOBRE:
 
-<b>Teste todo seu conhecimento de maneira divertida nesse jogo composto por mais de 149 perguntas 
-relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.
- </b>
+> <b>Teste todo seu conhecimento de maneira divertida nesse jogo
+> composto por mais de 149 perguntas  relacionadas a diversas áreas de
+> estudo dentre elas: Exatas, Humanas, Biológicas.  </b>
 
 <br></br>
 
@@ -34,5 +34,3 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 </div>
 
  <div align="center"> <h6>Simple Piece Copyright (c) 2018 by Pedro Lucas.</h6> </div>
-
-
