@@ -1,6 +1,6 @@
 <div align="center"> 
   <div> <a href="url">
-    <img src= "https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
+    <img src= "https://lh3.googleusercontent.com/w6L1Hyx0snOjqsnaE8pkP9ip-jfsubrn97NbS0QeTzVTMpoiLZaRXAAwVMti2pwBumfGRVUZVQ4=s180" 
      align="left"></a> </div>
   <div> <h1 vertical-align: text-top><strong>QuizMulado (Versão 1.0 Alpha)<strong></h1> </div>
 </div>
@@ -13,7 +13,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <div align="center"> 
  
- <img src="https://lh3.googleusercontent.com/ZUpoYxZHmVP89Mx-hs6t42faQQhVbOP5GU6HkDP4TPgR5YKGoVxF-gVLVTv2gTRrllp0tVLb30Y=s350"/> <img src="https://lh3.googleusercontent.com/aYJx4fwedbZS8X1u9f3ZGARtJh-2kGMv3Pt3Yhg6YTFvYR8W3i7YClSRG3WcrQduw47x4TsLnP4=s350"/> <img src= "https://lh3.googleusercontent.com/KVhvTlxTKEE3LE0J_8lFG9k2GInwZW8L703gfkXI0cA_IsuwPQAW5K8qfQT-21MEVW59mpB38CE=s450"/>
+ <img src="https://lh3.googleusercontent.com/1Xk-ExUidfysGVuQ59BlngQnrBPWmkxAPcUpXg2rJ8j9eJjdiTkFyJpnZF5pWupELNR3DLr9hRc=s350"/> <img src="https://lh3.googleusercontent.com/hHzQpm0yl7p6ApDckzISBLQSBbbH0zuzdlV1gczdNAyvsYXLR6QcwkJEthVv8KzUh7YAuNxvZQ0=s350"/> <img src= "https://lh3.googleusercontent.com/6EOpSIkX5YXSzyhufRtA-2kr9HaQxZCyyf2TRk7w1Q2NWkN7p0FD_YhSOECUCD8YQlHcho2mhaM=s450"/>
 
 </div>
 
