@@ -1,7 +1,7 @@
 <div align="center"> 
-  <div> <a href="url">
+  <div> 
     <img src= "https://lh3.googleusercontent.com/w6L1Hyx0snOjqsnaE8pkP9ip-jfsubrn97NbS0QeTzVTMpoiLZaRXAAwVMti2pwBumfGRVUZVQ4=s180" 
-     align="left"></a> </div>
+     align="left"> </div>
   <div> <h1 vertical-align: text-top><strong>QuizMulado (Versão 0.7 Alpha)<strong></h1> </div>
 </div>
 
