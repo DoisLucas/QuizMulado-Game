@@ -9,7 +9,8 @@
 <b>Teste todo seu conhecimento de maneira divertida nesse jogo composto por mais de 149 perguntas 
 relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológicas.
  </b>
-<br></br>
+
+
 <h3><strong>CAPTURAS DE TELA:</h3>
 <br></br>
 <div align="center"> 
