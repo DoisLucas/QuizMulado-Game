@@ -13,7 +13,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 <div align="center"> 
  
- <img src="https://lh3.googleusercontent.com/ZUpoYxZHmVP89Mx-hs6t42faQQhVbOP5GU6HkDP4TPgR5YKGoVxF-gVLVTv2gTRrllp0tVLb30Y=s350"/> <img src="https://lh3.googleusercontent.com/aYJx4fwedbZS8X1u9f3ZGARtJh-2kGMv3Pt3Yhg6YTFvYR8W3i7YClSRG3WcrQduw47x4TsLnP4=s350"/> <img src= "https://lh3.googleusercontent.com/KVhvTlxTKEE3LE0J_8lFG9k2GInwZW8L703gfkXI0cA_IsuwPQAW5K8qfQT-21MEVW59mpB38CE=s500" align="top"/> 
+ <img src="https://lh3.googleusercontent.com/ZUpoYxZHmVP89Mx-hs6t42faQQhVbOP5GU6HkDP4TPgR5YKGoVxF-gVLVTv2gTRrllp0tVLb30Y=s350"/> <img src="https://lh3.googleusercontent.com/aYJx4fwedbZS8X1u9f3ZGARtJh-2kGMv3Pt3Yhg6YTFvYR8W3i7YClSRG3WcrQduw47x4TsLnP4=s350"/> <img src= "https://lh3.googleusercontent.com/KVhvTlxTKEE3LE0J_8lFG9k2GInwZW8L703gfkXI0cA_IsuwPQAW5K8qfQT-21MEVW59mpB38CE=s450" align="top"/> 
 
 </div>
 
