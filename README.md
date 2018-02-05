@@ -1,6 +1,6 @@
 <div align="center"> 
   <div> <a href="url"><img src=
-"https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s160" 
+"https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
                            align="left"></a> </div>
   <div> <h1 vertical-align: text-top><strong>QuizMulado v1.0 Alpha<strong></h1> </div>
 </div>
