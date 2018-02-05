@@ -2,7 +2,7 @@
   <div> <a href="url">
     <img src= "https://lh3.googleusercontent.com/waRslVNu3NbXAa7j_9nr1hsPy-RyabwwXANfrt00bpGG1TNDc5Tr3G0NVCpdVSzpkG706na5yd4=s180" 
      align="left"></a> </div>
-  <div> <h1 vertical-align: text-top><strong>QuizMulado (0.8 Alpha)<strong></h1> </div>
+  <div> <h1 vertical-align: text-top><strong>QuizMulado Versão 1.0 Alpha)<strong></h1> </div>
 </div>
  
 <h3>Sobre:</h3> 
