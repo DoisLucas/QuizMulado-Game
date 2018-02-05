@@ -22,7 +22,7 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
 
 </div>
 
-# DOWNLOAD:
+## DOWNLOAD:
 
 <div align="center"> 
 
@@ -33,5 +33,6 @@ relacionadas a diversas áreas de estudo dentre elas: Exatas, Humanas, Biológic
  width="30%" height="30%" href></a></div>
 </div>
 
-## <div align="center"> <h6>Simple Piece Copyright (c) 2018 by Pedro Lucas.</h6> </div>
+ <div align="center"> <h6>Simple Piece Copyright (c) 2018 by Pedro Lucas.</h6> </div>
+
 
