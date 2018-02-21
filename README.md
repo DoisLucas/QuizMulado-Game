@@ -8,9 +8,7 @@
  </div>
 </div>
 
-<br/>
-<br/>
-<br/>
+
 ## SOBRE:
 
 > <b>Teste todo seu conhecimento de maneira divertida nesse jogo
