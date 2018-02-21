@@ -4,9 +4,11 @@
 
 <div> <img src= "https://image.ibb.co/fyyEVc/Sem_T_tulo_1.png" 
      align="left" width="15%" height="15%"> <h1 vertical-align: text-top align="center"><strong>QuizMulado (Versão 0.7 Alpha)<strong></h1> </div>
- <div> 
- </div>
+
 </div>
+
+<br/>
+<br/>
 
 
 ## SOBRE:
