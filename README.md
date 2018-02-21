@@ -1,11 +1,11 @@
 
 <div align="center"> 
-  <div> 
-    <img src= "https://lh3.googleusercontent.com/w6L1Hyx0snOjqsnaE8pkP9ip-jfsubrn97NbS0QeTzVTMpoiLZaRXAAwVMti2pwBumfGRVUZVQ4=s180" 
-     align="left"> </div>
+ 
 
-<div> <h1 vertical-align: text-top><strong>QuizMulado (Versão 0.7 Alpha)<strong></h1> </div>
-
+<div> <img src= "https://image.ibb.co/fyyEVc/Sem_T_tulo_1.png" 
+     align="left" width="15%" height="15%"> <h1 vertical-align: text-top><strong>QuizMulado (Versão 0.7 Alpha)<strong></h1> </div>
+ <div> 
+ </div>
 </div>
 
 ## SOBRE:
@@ -20,7 +20,7 @@
 
 <div align="center"> 
  
- <img src="https://preview.ibb.co/iXhKwH/ofiical1.png" width="20%" height="20%"/> <img src="https://image.ibb.co/kLV6bH/OKSC2.png" width="20%" height="20%"/> <img align="top" src= "https://lh3.googleusercontent.com/6EOpSIkX5YXSzyhufRtA-2kr9HaQxZCyyf2TRk7w1Q2NWkN7p0FD_YhSOECUCD8YQlHcho2mhaM=s450"/>
+ <img src="https://preview.ibb.co/iXhKwH/ofiical1.png" width="20%" height="20%"/> <img src="https://image.ibb.co/kLV6bH/OKSC2.png" width="20%" height="20%"/> <img align="top" src= "https://preview.ibb.co/dfwq3x/Sem_T_tulo_2.png" width="40%" height="40%"/>
 
 </div>
 
