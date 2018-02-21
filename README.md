@@ -20,7 +20,7 @@
 
 <div align="center"> 
  
- <img src="https://lh3.googleusercontent.com/1Xk-ExUidfysGVuQ59BlngQnrBPWmkxAPcUpXg2rJ8j9eJjdiTkFyJpnZF5pWupELNR3DLr9hRc=s350"/> <img src="https://lh3.googleusercontent.com/hHzQpm0yl7p6ApDckzISBLQSBbbH0zuzdlV1gczdNAyvsYXLR6QcwkJEthVv8KzUh7YAuNxvZQ0=s350"/> <img align="top" src= "https://lh3.googleusercontent.com/6EOpSIkX5YXSzyhufRtA-2kr9HaQxZCyyf2TRk7w1Q2NWkN7p0FD_YhSOECUCD8YQlHcho2mhaM=s450"/>
+ <img src="https://preview.ibb.co/iXhKwH/ofiical1.png" width="20%" height="20%"/> <img src="https://image.ibb.co/kLV6bH/OKSC2.png" width="20%" height="20%"/> <img align="top" src= "https://lh3.googleusercontent.com/6EOpSIkX5YXSzyhufRtA-2kr9HaQxZCyyf2TRk7w1Q2NWkN7p0FD_YhSOECUCD8YQlHcho2mhaM=s450"/>
 
 </div>
 
