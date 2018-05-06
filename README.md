@@ -24,15 +24,16 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 <img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/Fluxograma.png" width="80%" height="80%"/>
 
+</p>
 
 
-<b>
-* A cena Partida possui uma recursividade, onde ela mesmo se chama N vezes, onde N é o numero de perguntas da partida, saindo do loop apenas quando não tiver mais vidas.
 
-** Na cena Fim tem a opção de jogar novamente, fazendo com que o fluxo volte para a cena de partida com as perguntas realocadas, e a opção de voltar para o inicio.
+<div><b>* A cena Partida possui uma recursividade, onde ela mesmo se chama N vezes, onde N é o numero de perguntas da partida, saindo do loop apenas quando não tiver mais vidas.</b>
 
-*** Ao abandonar a partida o jogador é redirecionado para a cena de escolha do tema.
-</b>
+** <b>Na cena Fim tem a opção de jogar novamente, fazendo com que o fluxo volte para a cena de partida com as perguntas realocadas, e a opção de voltar para o inicio.</b>
+
+*** <b>Ao abandonar a partida o jogador é redirecionado para a cena de escolha do tema.</b></div>
+
 
 <p align="center">
 <img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/Screeshot.png" width="110%" height="110%"/>
