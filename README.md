@@ -29,7 +29,7 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 <B>* A cena partida possui uma recursividade, onde ela mesmo se chama N vezes, onde N é o numero de perguntas da partida, saindo do loop apenas quando não tiver mais vidas.
 
-** Na cena Fim tem a opção de jogar novamente, fazendo com que o fluxo volte para a cena de partida com as perguntas realocadas, e a opção de voltar para o inicio.
+** Na cena fim tem a opção de jogar novamente, fazendo com que o fluxo volte para a cena de partida com as perguntas realocadas, e a opção de voltar para o inicio.
 
 *** Ao abandonar a partida o jogador é redirecionado para a cena de escolha do tema.</B>
 
