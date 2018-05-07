@@ -22,7 +22,7 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 <p align="center">
 
-<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/Navega%C3%A7%C3%A3o.png" width="80%" height="80%"/>
+<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/Navegação.png" width="80%" height="80%"/>
 
 </p>
 
