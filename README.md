@@ -36,4 +36,13 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 </p>
 
+### Imagens:
+
+<p align="center">
+
+<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif1.gif" width="20%" height="20%"/>
+<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif2.gif" width="20%" height="20%"/>
+</p>
+
+
 
