@@ -40,7 +40,7 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 <p align="center">
 
-<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif1.gif" width="40%" height="40%"/>
+<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif3.gif" width="40%" height="40%"/>
 <img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif2.gif" width="40%" height="40%"/>
 </p
 
