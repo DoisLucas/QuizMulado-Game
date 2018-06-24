@@ -28,15 +28,7 @@ Com as moedas é possivel adquirir poderes na loja do game, dentre eles estão:
 
 Foi utilizado o padrão de projeto **Singleton** no qual garante a existência de apenas uma instância de uma classe, mantendo um ponto global de acesso ao seu objeto, onde é centralizado todas as informaçoes essenciais que será utilizada nas demais classes, como por exemplo todo o controle de audio da aplicação. O projeto atualmente possui 8 Scenes e 19 Script.
 
-
-<p align="center">
-
-<img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif4.gif" width="70%" height="70%"/>
-
-</p>
-
-
->*A partida começa com uma lista de perguntas, e ao errar, a pergunta entra no final da lista para ser respondida posteriormente, e as perguntas que são puladas com o poder, irão pra uma nova lista onda utiliza o mesmo mecanismo de erro, a nova lista será chamada logo após a primeira lista não ter nenhuma pergunta (certa ou errada) para ser respondida, lembrando que não existe a possibilidade de pular uma mesma pergunta duas vezes na mesma partida.*
+>A partida começa com uma lista de perguntas, e ao errar, a pergunta entra no final da lista para ser respondida posteriormente, e as perguntas que são puladas com o poder, irão pra uma nova lista onda utiliza o mesmo mecanismo de erro, a nova lista será chamada logo após a primeira lista não ter nenhuma pergunta (certa ou errada) para ser respondida, lembrando que não existe a possibilidade de pular uma mesma pergunta duas vezes na mesma partida.
 
 <p align="center">
 
